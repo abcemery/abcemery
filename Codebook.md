@@ -1,0 +1,5 @@
+# abcemery
+Getting and Cleaning Data
+README.md
+UCI HAR Dataset
+Codebook.md
